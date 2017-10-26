@@ -1,0 +1,7 @@
+# Ignore all the files without extensions (AKA linux executables)
+*
+!*.*
+!*/
+
+# Don't ignore makefiles though!
+!Makefile
